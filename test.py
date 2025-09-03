@@ -1,0 +1,1 @@
+print("Econometric first code test")
